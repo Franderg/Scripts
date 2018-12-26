@@ -26,7 +26,7 @@ else
     echo "Correctly authenticated."
 fi
 
-tar -xzvf archive.tar.gz
+tar -xzvf package.tar.gz
 rpm -ivh *.rpm
 mv Python-3.7.2.tgz /usr/src
 cd /usr/src
