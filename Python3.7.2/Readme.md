@@ -1,4 +1,4 @@
-Requirements to install last version of Python without Internet
+Requirements to install last Python version without Internet
 
 Dependencies :
 
