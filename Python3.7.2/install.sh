@@ -71,3 +71,4 @@ echo "Testing the version of python3.7"
 python3.7 -V
 echo "Installation successful"
 
+echo "\nalias python='python3.7'" >> ~/.bashrc
